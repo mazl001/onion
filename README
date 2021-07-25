@@ -4,11 +4,9 @@ PHP >= 7.0
  
  
  
- 
 安装Composer
  
 参考 https://docs.phpcomposer.com/00-intro.html#Downloading-the-Composer-Executable
- 
  
  
  
@@ -17,12 +15,9 @@ PHP >= 7.0
 切换到你的WEB根目录, 运行命令 composer create-project mazl/onion
  
  
- 
- 
 测试运行
  
 访问项目 public 目录, 例如: http://localhost/onion/public/index.php, 输出 hello world.
- 
  
  
  
@@ -31,7 +26,6 @@ PHP >= 7.0
 https://github.com/mazl001/onion (不含演示代码)
  
 https://github.com/mazl001/onion (包含演示代码)
- 
  
  
  
